@@ -4,8 +4,6 @@ The **documentation** file explains all the files in the repository, the structu
 
 ## Short description of the project
 
-This is a project for the Robotics course held at Polimi in 2021/2022. 
-
 Given 3 ROS bags with recorded data of an omnidirectional robot with four meccanum wheels and some geometric parameters of the robot, the goals to achieve using ROS are:
 1. Compute odometry using appropriate kinematics:
     - Compute robot linear and angular velocities v, ⍵ from wheel encoders;
